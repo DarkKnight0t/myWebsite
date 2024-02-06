@@ -1,0 +1,66 @@
+.items {
+    font-family: Helvetica;
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    padding: 5px;
+}
+.projectItems {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: grey;
+    padding: 5px;
+    font-size: 30px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#projectsHeading {
+    text-align: center;
+    background-color: grey;
+}
+nav {
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
+.items:hover {
+    background: grey;
+    opacity: 0.5;
+}
+#aboutImage {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+#mash_Pic {
+    height: 500px;;
+}
+body {
+    background-color: grey;
+}
+#about {
+    text-align: center;
+    font-size: 25px;
+}
+#mashDesc {
+    text-align: left;
+    font-size: 30px;
+}
+.socialItems{
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
+    
+    
+}
+.socialItems:hover {
+    background: grey;
+    opacity: 0.5;
+}
